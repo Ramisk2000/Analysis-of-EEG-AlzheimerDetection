@@ -27,7 +27,7 @@ This repository contains a project focused on detecting Alzheimer's disease usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hani0216/Analysis-of-EEG-for-the-Detection-of-Alzheimer-s-Disease.git
+   git clone https://github.com/Ramisk2000/Analysis-of-EEG-for-the-Detection-of-Alzheimer-s-Disease.git
    cd Analysis-of-EEG-for-the-Detection-of-Alzheimer-s-Disease
 2. Install the required dependencies:
       pip install -r requirements.txt
